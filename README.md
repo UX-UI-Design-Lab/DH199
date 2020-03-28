@@ -1,4 +1,4 @@
-# DH199: Directed Research In Digital Humanities
+# Directed Research In Digital Humanities
 
 ## Learning Objectives/ Outcome
 In this course, students will conduct an user experience design research project by utilizing the concepts, theories, and skills of digital humanities. Students will learn how to independently and collaboratively design and execute an advanced user experience design project. Individual students will produce one web-document reporting the design process in detail and one final report for publication. 
