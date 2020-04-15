@@ -25,15 +25,15 @@ Wed. 6-8pm online communication unless a different communication time is individ
 
 
 ## Collaborators (2020S)
-- Samantha Chandra
-- Andrea Mejia-Madriz
-- Annmarie Cong
-- Jieun Lee
-- Julia Sung
-- Rebecca Lin
-- Diana Nguyen
-- Samantha Chu
-- Priyana Patel (participant)
+- [Samantha Chandra](https://samanthachandra1.wixsite.com/dh199)
+- [Andrea Mejia-Madriz](https://andreamaria1116.github.io/DH199/)
+- [Annmarie Cong](https://anncong.github.io/DH_199S/)
+- [Jieun Lee](http://artmate.surge.sh/)
+- [Julia Sung](https://jsung125.wixsite.com/dh199-20sp)
+- [Rebecca Lin](https://rlin824.wixsite.com/dh199-rebeccalin)
+- [Diana Nguyen](https://xdianasmiles.wixsite.com/pibu)
+- [Samantha Chu](https://samanthachiuu.github.io/DH199/)
+- [Priyana Patel](https://priyanapatel57.github.io/DH199/)
 
 ## Collaborators (2020W)
 - Priscilla To (Honor's)
