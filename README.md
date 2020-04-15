@@ -13,7 +13,7 @@ In this course, students will conduct an user experience design research project
 [Syllabus](#)- still working on the schedule
 
 ## Meetings + Weekly Schedule
-Wed. 6-8pm online communication unless a different communication time is individually scheduled in the beginning of the quarter. We will use [Zoom, https://ucla.zoom.us/j/7683246307](https://ucla.zoom.us/j/7683246307) or Discord. 
+Wed. 6-8pm online communication unless a different communication time is individually scheduled in the beginning of the quarter. We will use Zoom or Discord. 
 
 
 
