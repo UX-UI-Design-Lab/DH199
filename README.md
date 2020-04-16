@@ -10,11 +10,10 @@ In this course, students will conduct an user experience design research project
 * visual perception, psychology of design
 * spatial x temporal exploration of the local history (ex. Los Angeles)
 
-[Syllabus](#)- still working on the schedule
+[Syllabus](https://docs.google.com/document/d/1wHNS6xnSplCvuPxFe-k2mK_oqbX3doNi6lBzsTba7SA/edit?usp=sharing)
 
 ## Meetings + Weekly Schedule
 Wed. 6-8pm online communication unless a different communication time is individually scheduled in the beginning of the quarter. We will use Zoom or Discord. 
-
 
 
 ## Requirements
