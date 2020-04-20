@@ -25,11 +25,12 @@ Or, at least you can asks someone (or yourself) play the role of that type of us
 - What is the action the users take?
 
 ### Research methods (direct/ passive/ partipatory/ or creative combination of them, or other methods)
-Describe the methods such as whether you will observe the users behaviors (maybe from youtubes, or films... to be creative) or you will ask directly to the users with some quesitons (via email? or in person if someone in your family or friend, or via phone/ video call? -- in this video call you can ask the person to show their screen by sharing -- or show some artefacts they use for the activity, like could you show me your calendar how you planned the trip?)
+- Describe the methods such as whether you will observe the users behaviors (maybe from youtubes, or films... to be creative) or you will ask directly to the users with some quesitons (via email? or in person if someone in your family or friend, or via phone/ video call? -- in this video call you can ask the person to show their screen by sharing -- or show some artefacts they use for the activity, like could you show me your calendar how you planned the trip?)
+- you may want to consider the diary/journal as a research method as well -- to ask someone write down details regarding that activity
 
 ### Plan specific quesitons or resquest for the observation/ interview guide 
-- Decide where to visit (virtually or in person if you are lucky to access such place easily by keeping social distance)
+- Decide where to visit (virtually or in person if you are lucky to access such a place easily, by keeping social distance)
 - Decide what activities to observe/ what to ask to do
 - Decide how to interact with the users 
-- Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-- Prepare the interview guide 
+- Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images), so you need to know whehter you will record or ask your interviewee to record or something else. 
+- Write down your plan as a script -- prepare the interview guide 
