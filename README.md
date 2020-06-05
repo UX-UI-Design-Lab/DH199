@@ -31,7 +31,7 @@ Wed. 6-8pm online communication unless a different communication time is individ
 - [Julia Sung](https://jsung125.wixsite.com/dh199-20sp)
 - [Rebecca Lin](https://rlin824.wixsite.com/dh199-rebeccalin)
 - [Diana Nguyen](https://xdianasmiles.wixsite.com/pibu)
-- [Samantha Chu](https://samanthachiuu.github.io/DH199/)
+- [Samantha Chiu](https://samanthachiuu.github.io/DH199/)
 - [Priyana Patel](https://priyanapatel57.github.io/DH199/)
 
 ## Collaborators (2020W)
