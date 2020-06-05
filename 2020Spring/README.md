@@ -45,12 +45,11 @@ By exploring the ux design of the local history, it is revealed that the augment
 
 <table style="border: none">
   <tr>
-    <td width="25%"> <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/SammyChandra-campusclub.gif" target="_blank" > <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/SammyChandra-campusclub.png" > </a>
+    <td width="25%"> <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/SammyChandra-campusclub.gif" target="_blank"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/SammyChandra-campusclub.png"></a>
     </td>
     <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
     <td width="25%"> <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/Priyana-shell.mp4" target="_blank" > <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/priyana-grounded.png" ></a>
-    </td>
     </td>
     <td width="25%">  
     </td>
@@ -62,7 +61,6 @@ By exploring the ux design of the local history, it is revealed that the augment
     </td>
     <td width="25%"> <em> Grounded </em> <br> Priyana
     </td>
-
   </tr>
 </table>
 
