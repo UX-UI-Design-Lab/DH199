@@ -48,8 +48,7 @@ For those exploration of ux design of the local history, it is revealed that the
     </td>
     <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
-    <td width="25%"> 
-      <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/priyana-grounded.png" >
+    <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/priyana-grounded.png" >
     </td>
     </td>
     <td width="25%">  
