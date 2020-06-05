@@ -89,7 +89,6 @@ Priyana: I am interested in exploring the evolution of coffee culture of Los Ang
     </td>
     <td width="25%"> <em> Pibu </em> <br> Diana Nguyen
     </td>
-
   </tr>
 </table>
 
