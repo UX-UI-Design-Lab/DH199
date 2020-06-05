@@ -3,7 +3,7 @@
 
 ### Research statement
 
-Aesthetic experience of everyday life involves the feeling of active interaction with the surroundings. The surroundings entails the geographical, cultural, and/or motivational context. The contexts are interweaven with our sensorymotor intelligence and eventually sediment into the meaningful aestehtic experience. Nine students explored various research questions to unveil a hidden and missing layer of information when users explore local history, social connecteness, and object to choose. We use user experience design research methods to answer for those quesiton.
+Aesthetic experience of everyday life involves the feeling of active interaction with the surroundings. The surroundings entails the geographical, cultural, and/or motivational context. The contexts are interweaven with our sensorymotor intelligence and eventually sediment into the meaningful aestehtic experience. Nine students explored various research questions to unveil a hidden and missing layer of information when users explore local history, social connecteness, and object to choose. We use user experience design research methods to answer for those questions.
 
 ### Invidiual students work (questions, outcome, and findings)
 
@@ -34,4 +34,4 @@ Diana: Cosmetics and skincare is an interesting topic -- cultural sense of beaut
 
 ### Concluding remarks 
 
-In this course, students conducted an user experience design research project by utilizing the concepts, theories, and skills of digital humanities. During 10 weeks, we virtually met and discussed and learned from each other how to independently and collaboratively design and execute an advanced user experience design project to answer 
+In this course, students conducted an user experience design research project by utilizing the concepts, theories, and skills of digital humanities. During 10 weeks, we virtually met to share, discuss, and learn from each other how to independently and collaboratively design in order to answer how human experience can be valued and celebrated by storytelling with digital technology for the future. 
