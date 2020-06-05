@@ -15,11 +15,11 @@ Aesthetic experience of everyday life involves the feeling of active interaction
   <tr> 
     <td > andrea </td>   <td width="25%"> sam </td>   <td width="25%"> julia </td> 
   </tr>
-  <tr> <td width="100%"> Sense of belonging in community </td> </tr>
+  <tr> <td > Sense of belonging in community </td> </tr>
   <tr> 
     <td width="25%"> sammy </td> <td width="25%"> annmarie </td> <td width="25%"> rebecca </td>
   </tr>
-  <tr> <td width="100%"> object to choose </td></tr>
+  <tr> <td > object to choose </td></tr>
   <tr>  <td width="25%"> jieun </td>   <td width="25%"> diana </td>   <td width="25%"> priyana </td> </tr> 
 </table>
 
