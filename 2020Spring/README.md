@@ -9,7 +9,7 @@ Aesthetic experience of everyday life involves the feeling of active interaction
 
 <table style="background-color: black">
   <tr>
-    <td width="25%"> <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flimLA.png" ></a>
+    <td width="25%"> <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-filmLA.png" ></a>
     </td>
     <td width="25%">  <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/sam-chui-LArc-3s-23delay" target="_blank"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/sam-chui-LArc-3s-23delay.gif" ></a>
     </td>
