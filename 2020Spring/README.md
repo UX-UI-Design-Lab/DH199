@@ -11,7 +11,7 @@ Aesthetic experience of everyday life involves the feeling of active interaction
   <tr>
     <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
-    <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/sam-chui-3s-23delay.gif" >
+    <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/sam-chui-LArc-3s-23delay.gif" >
     </td>
     <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
