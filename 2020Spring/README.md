@@ -13,8 +13,7 @@ Aesthetic experience of everyday life involves the feeling of active interaction
     </td>
     <td width="70%">
       Andrea Mejia-Madriz: I want to create an application that delivers historical information about the LA film and telivision scene, using user’s location services and giving them alerts about films that have been shot in their location throughout history. The research questioin was how location-based services, augmented reality, and user-centered design techniques can be utilized in order to efficiently and captivatingly deliver Los Angeles film history in real time for tourist consumption. 
-      
-      </td>
+    </td>
   </tr>
 </table>
 
@@ -42,6 +41,7 @@ Jieun: I want to know how the user chooses their artworks. Does it depend on the
 
 Diana: Cosmetics and skincare is an interesting topic -- cultural sense of beauty. But I want to design a personalized beauty consultant at the tip of their fingertips by focusing the right to know about ingredients. Through this project, I want them to be educated not only on their skin type, skin concerns, but also the ingredients and how to properly layer their skincare.
 
+---
 
 ### Concluding remarks 
 
