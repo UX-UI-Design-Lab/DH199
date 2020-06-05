@@ -11,11 +11,11 @@ The aesthetic experience of everyday life involves the feeling of active interac
   <tr>
     <td width="25%"> <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-filmLA.png" ></a>
     </td>
-    <td width="25%">  <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/sam-LArc.png" target="_blank"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/sam-chui-LArc-3s-23delay.gif" ></a>
+    <td width="25%">  <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/sam-LArc.png" target="_blank"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/sam-LArc.gif" ></a>
     </td>
     <td width="25%"> <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/julia-3d.gif"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/julia-science.png" ></a>
     </td>
-    <td width="25%">  <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/rebecca-amplifyLA.png"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/rebecca-amplifyLA-3d-50delay.gif" ></a>
+    <td width="25%">  <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/rebecca-amplifyLA.gif"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/rebecca-amplifyLA.png" ></a>
     </td>
   </tr>
   <tr>
