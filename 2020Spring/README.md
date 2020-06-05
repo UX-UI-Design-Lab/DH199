@@ -9,7 +9,7 @@ Aesthetic experience of everyday life involves the feeling of active interaction
 
 <table>
   <tr>
-    <td> <iframe src="https://xd.adobe.com/view/f0212682-474c-4e5e-722e-835875836916-8610/screen/06e718a3-9f88-4494-97da-984ab1637221/Homepage" width="300px"></iframe>
+    <td> <img src="/andrea-film-3s.gif" width="300px">
     </td>
     <td>
       Andrea Mejia-Madriz: I want to create an application that delivers historical information about the LA film and telivision scene, using user’s location services and giving them alerts about films that have been shot in their location throughout history. The research questioin was how location-based services, augmented reality, and user-centered design techniques can be utilized in order to efficiently and captivatingly deliver Los Angeles film history in real time for tourist consumption. 
