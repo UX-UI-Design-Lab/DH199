@@ -19,13 +19,13 @@ Aesthetic experience of everyday life involves the feeling of active interaction
     </td>
   </tr>
   <tr>
-  <td width="25%"> Film LA <br> Andrea Mejia-Madriz  
+    <td width="25%"> <em> Film LA</em> <br> Andrea Mejia-Madriz  
     </td>
-    <td width="25%"> UCLA Architecture <br> Samantha Chiu 
+    <td width="25%"> <em> UCLA Architecture </em> <br> Samantha Chiu 
     </td>
-    <td width="25%"> <br> Julia Sung
+    <td width="25%"> <em> Science </em> <br> Julia Sung
     </td>
-    <td width="25%"> Hearby <br> Rebecca Lin
+    <td width="25%"> <em> Hearby </em> <br> Rebecca Lin
     </td>
   </tr>
 </table>
@@ -42,6 +42,27 @@ For those exploration of ux design of the local history, it is revealed that the
 
 ---
 
+<table>
+  <tr>
+    <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
+    </td>
+    <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
+    </td>
+    <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
+    </td>
+
+  </tr>
+  <tr>
+    <td width="25%"> <em> Film LA</em> <br> Andrea Mejia-Madriz  
+    </td>
+    <td width="25%"> <em> UCLA Architecture </em> <br> Samantha Chiu 
+    </td>
+    <td width="25%"> <em> Science </em> <br> Julia Sung
+    </td>
+
+  </tr>
+</table>
+
 Sammy: I will explore how this app can be designed to improve a student’s perceived sense of community in their college campus, with an emphasis on exploring its features and functionalities. The features and building blocks discussed above will be user tested to learn what students value most in an app such as this. 
 
 Annmarie: This study intends to explore methods on improving social connections in the Asian community by tying in cultural values. Specifically, this study aims to look into how Asian can connect culturally over a social app and how to promote cultural awareness in these Asian communities. I found six factors related to the cultural awareness: ..... 
@@ -49,6 +70,23 @@ Annmarie: This study intends to explore methods on improving social connections 
 Priyana: I am interested in exploring the evolution of coffee culture of Los Angeles and how coffee is currently reflected in the social experience of local residents. Coffee shops represent social acitivities for connection as well as spaces to empower individuals. Los Angeles is comprised of residents of multiple races, nationalities, and backgrounds which is directly reflected in the abundance of coffee communities. How might we make coffee culture in Los Angeles more accessible to local residents while promoting social connectivity, productivity, and inclusivity in diverse coffee communities?
 
 ---
+
+<table>
+  <tr>
+    <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
+    </td>
+    <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
+    </td>
+
+  </tr>
+  <tr>
+    <td width="25%"> <em> Film LA</em> <br> Andrea Mejia-Madriz  
+    </td>
+    <td width="25%"> <em> UCLA Architecture </em> <br> Samantha Chiu 
+    </td>
+    
+  </tr>
+</table>
 
 Jieun: I want to know how the user chooses their artworks. Does it depend on their preference or unconscious image they saw the first time they open the app? I found that the brightness of the example artwork on the first screen influenced on the perceived user-friendienss and usefulness and feeling more curious. Warm color scheme encourages people to percieve the app more friendly and more attractive and likely willing to download comparing cold color shceme. The most interesting part was the texture, when I applied the oil painting filter to increase the textual feeling, the app first page is perceived more positively in every aspect in measurement. 
 
