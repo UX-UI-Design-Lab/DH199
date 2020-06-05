@@ -9,7 +9,7 @@ Aesthetic experience of everyday life involves the feeling of active interaction
 
 <table>
   <tr>
-    <td width="25%" style="border: 1px solid red"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
+    <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
     <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
@@ -50,7 +50,7 @@ For those exploration of ux design of the local history, it is revealed that the
     </td>
     <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
-    <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
+    <td width="25%">  
     </td>
   </tr>
   <tr>
@@ -60,8 +60,7 @@ For those exploration of ux design of the local history, it is revealed that the
     </td>
     <td width="25%"> <em> Science </em> <br> Julia Sung
     </td>
-    <td width="25%"> <em> Science </em> <br> Julia Sung
-    </td>
+
   </tr>
 </table>
 
