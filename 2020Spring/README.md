@@ -48,17 +48,20 @@ For those exploration of ux design of the local history, it is revealed that the
     </td>
     <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
-    <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
+    <td width="25%"> 
+      <figure>
+        <video src="https://ux-ui-design-lab.github.io/DH199/2020Spring/Priyana-shell.mp4"> 
+      </figure>
     </td>
     <td width="25%">  
     </td>
   </tr>
   <tr>
-    <td width="25%"> <em> Film LA</em> <br> Andrea Mejia-Madriz  
+    <td width="25%"> <em> campusclub </em> <br> Samantha Chandra 
     </td>
-    <td width="25%"> <em> UCLA Architecture </em> <br> Samantha Chiu 
+    <td width="25%"> <em> Inazn </em> <br> Annmarie Cong 
     </td>
-    <td width="25%"> <em> Science </em> <br> Julia Sung
+    <td width="25%"> <em> Grounded </em> <br> Priyana
     </td>
 
   </tr>
