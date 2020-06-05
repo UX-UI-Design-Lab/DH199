@@ -7,7 +7,7 @@ Aesthetic experience of everyday life involves the feeling of active interaction
 
 ### Invidiual students works
 
-<table>
+<table style="border: none">
   <tr>
     <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
@@ -42,7 +42,7 @@ For those exploration of ux design of the local history, it is revealed that the
 
 ---
 
-<table>
+<table style="border: none">
   <tr>
     <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
@@ -50,7 +50,8 @@ For those exploration of ux design of the local history, it is revealed that the
     </td>
     <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
-
+    <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
+    </td>
   </tr>
   <tr>
     <td width="25%"> <em> Film LA</em> <br> Andrea Mejia-Madriz  
@@ -59,7 +60,8 @@ For those exploration of ux design of the local history, it is revealed that the
     </td>
     <td width="25%"> <em> Science </em> <br> Julia Sung
     </td>
-
+    <td width="25%"> <em> Science </em> <br> Julia Sung
+    </td>
   </tr>
 </table>
 
@@ -71,20 +73,26 @@ Priyana: I am interested in exploring the evolution of coffee culture of Los Ang
 
 ---
 
-<table>
+<table style="border: none">
   <tr>
     <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
     <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
-
+    <td width="25%">  
+    </td>
+    <td width="25%">  
+    </td>
   </tr>
   <tr>
     <td width="25%"> <em> Film LA</em> <br> Andrea Mejia-Madriz  
     </td>
     <td width="25%"> <em> UCLA Architecture </em> <br> Samantha Chiu 
     </td>
-    
+    <td width="25%">  
+    </td>
+    <td width="25%">  
+    </td>
   </tr>
 </table>
 
