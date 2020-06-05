@@ -49,8 +49,8 @@ For those exploration of ux design of the local history, it is revealed that the
     <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
     <td width="25%"> 
-      <figure>
-        <video src="https://ux-ui-design-lab.github.io/DH199/2020Spring/Priyana-shell.mp4" width="200px"> 
+      <figure class="video_container">
+        <iframe src="https://ux-ui-design-lab.github.io/DH199/2020Spring/Priyana-shell.mp4" width="200px"> </iframe>
       </figure>
     </td>
     <td width="25%">  
