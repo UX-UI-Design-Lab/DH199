@@ -19,13 +19,13 @@ Aesthetic experience of everyday life involves the feeling of active interaction
     </td>
   </tr>
   <tr>
-  <td width="25%"> Andrea Mejia-Madriz: Film LA
+  <td width="25%"> Film LA <br> Andrea Mejia-Madriz  
     </td>
-    <td width="25%">  
+    <td width="25%"> UCLA Architecture <br> Samantha Chiu 
     </td>
-    <td width="25%"> 
+    <td width="25%"> <br> Julia Sung
     </td>
-    <td width="25%">  
+    <td width="25%"> Hearby <br> Rebecca Lin
     </td>
   </tr>
 </table>
