@@ -15,7 +15,7 @@ Aesthetic experience of everyday life involves the feeling of active interaction
     </td>
     <td width="25%"> <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
     </td>
-    <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/andrea-flim-3s.gif" >
+    <td width="25%">  <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/rebecca-amplifyLA-3s-50delay.gif" >
     </td>
   </tr>
   <tr>
@@ -25,7 +25,7 @@ Aesthetic experience of everyday life involves the feeling of active interaction
     </td>
     <td width="25%"> <em> Science </em> <br> Julia Sung
     </td>
-    <td width="25%"> <em> Hearby </em> <br> Rebecca Lin
+    <td width="25%"> <em> Amplify </em> <br> Rebecca Lin
     </td>
   </tr>
 </table>
