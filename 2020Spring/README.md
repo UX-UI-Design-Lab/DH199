@@ -88,10 +88,7 @@ Priyana: I am interested in exploring the evolution of coffee culture of Los Ang
     </td>
     <td width="25%"> <em> UCLA Architecture </em> <br> Samantha Chiu 
     </td>
-    <td width="25%">  
-    </td>
-    <td width="25%">  
-    </td>
+
   </tr>
 </table>
 
