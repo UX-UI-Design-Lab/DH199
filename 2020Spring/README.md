@@ -3,7 +3,7 @@
 
 ### Research statement
 
-Aesthetic experience of everyday life involves the feeling of active interaction with the surroundings. The surroundings entails the geographical, cultural, and/or motivational context. The contexts are interweaven with our sensorymotor intelligence and eventually sediment into the meaningful aestehtic experience. Nine students explored various research questions to unveil a hidden and missing layer of information when users explore local history, social connecteness, and object to choose. We use user experience design research methods to answer for those questions.
+The aesthetic experience of everyday life involves the feeling of active interaction with the surroundings. The surroundings entail the geographical, cultural, and/or motivational context. The contexts are interwoven with our sensorimotor intelligence and eventually sediment into the meaningful aesthetic experience. Nine students explored various research questions to unveil a hidden and missing layer of information when users explore local history, social connectedness, and objects to choose. We use user experience design research methods to answer those questions.
 
 ### Invidiual students works
 
@@ -30,15 +30,16 @@ Aesthetic experience of everyday life involves the feeling of active interaction
   </tr>
 </table>
 
-Andrea Mejia-Madriz: I want to create an application that delivers historical information about the LA film and telivision scene, using user’s location services and giving them alerts about films that have been shot in their location throughout history. The research questioin was how location-based services, augmented reality, and user-centered design techniques can be utilized in order to efficiently and captivatingly deliver Los Angeles film history in real time for tourist consumption. 
+[Andrea](https://andreamaria1116.github.io/DH199/): I want to create an application that delivers historical information about the LA film and television scene, using user’s location services and giving them alerts about films that have been shot in their location throughout history. The research question was how location-based services, augmented reality, and user-centered design techniques can be utilized in order to efficiently and captivatingly deliver Los Angeles film history in real time for tourist consumption. 
 
-Sam: I would like to propose the UX design for the walkthrough of UCLA architectures in history. The location-based exploration of the hidden or text-documented history of UCLA can retell the significant meaning to the visitors and the prospective students of how UCLA contributed to the various areas of Humanities, Art and filming, Science and Engineering, and Medical and Biological Sciences.
+[Sam](https://samanthachiuu.github.io/DH199/): I would like to propose the UX design for the walkthrough of UCLA architectures in history. The location-based exploration of the hidden or text-documented history of UCLA can retell the significant meaning to the visitors and the prospective students of how UCLA contributed to the various areas of Humanities, Art and filming, Science and Engineering, and Medical and Biological Sciences.
 
-Julia: All throughout LA, there are important locations symbolizing the history of science across human biology, medicine, astronomy, and technology.  With science being an important part of primary education and a passion for many, a location based app can help enhance user experiences while gaining incredible knowledge of how science has progressed throughout history.
+[Julia](https://jsung125.wixsite.com/dh199-20sp): All throughout LA, there are important locations symbolizing the history of science across human biology, medicine, astronomy, and technology.  With science being an important part of primary education and a passion for many, a location based app can help enhance user experiences while gaining incredible knowledge of how science has progressed throughout history.
 
-Rebecca: Los Angeles is a world-revered music city that has an incredible history in paving the way for pop, rock, hip hop, electronic music, and more. For my capstone project, I would like to explore how we can keep Los Angeles's music scene alive while never forgetting its history and staying true to its roots.
+[Rebecca](https://rlin824.wixsite.com/dh199-rebeccalin): Los Angeles is a world-revered music city that has an incredible history in paving the way for pop, rock, hip hop, electronic music, and more. For my capstone project, I wanted to explore how an added layer of audio information can enhance a location-based music event search to immerse users into Los Angeles’s bustling music scene while never forgetting its roots. 
 
-For those exploration of ux design of the local history, it is revealed that the augmented information on the location have a chance to deepen our connectedness of the time and the location. It is an interestng experiment to expose the stories in context and invite users to experience the perspectives for one's own interpretation. As Keith Moxey stated "Historical interpretations are valued or devalued according to the way in which their articulation of the concerns of the present in the context of the stury of the past either coincides or differs with our own perspective on the poiitical and cultural issues of our time." (The Practice of Theory, viii)
+
+By exploring the ux design of the local history, it is revealed that the augmented information on the location has a chance to deepen our connectedness of the time and the location. It is an interesting experiment to expose the stories in context and invite users to experience the perspectives for one's own interpretation. As Keith Moxey stated "Historical interpretations are valued or devalued according to the way in which their articulation of the concerns of the present in the context of the story of the past either coincides or differs with our own perspective on the political and cultural issues of our time." (The Practice of Theory, viii)
 
 ---
 
@@ -65,11 +66,12 @@ For those exploration of ux design of the local history, it is revealed that the
   </tr>
 </table>
 
-Sammy: I will explore how this app can be designed to improve a student’s perceived sense of community in their college campus, with an emphasis on exploring its features and functionalities. The features and building blocks discussed above will be user tested to learn what students value most in an app such as this. 
+[Sammy](https://samanthachandra1.wixsite.com/dh199): I want to explore how an app can be designed to improve a student’s perceived sense of community in their college campus, with an emphasis on exploring its features and functionalities. I used the building blocks of social media that I learned about in my literature review to put together a social-media like directory of events and clubs on campus, which will be user tested to learn what students value most in an app such as this. 
 
-Annmarie: This study intends to explore methods on improving social connections in the Asian community by tying in cultural values. Specifically, this study aims to look into how Asian can connect culturally over a social app and how to promote cultural awareness in these Asian communities. I found six factors related to the cultural awareness: ..... 
+[Annmarie](https://anncong.github.io/DH_199S/): My research project is about exploring ways to promote cultural connectedness with online friendships. In other words, this study intends to explore methods on improving social connections in the Asian community by tying in cultural values. After conducting factor analysis for my user research, I found six factors related to cultural connectedness and online friendships: online connections, cultural learning, physical cultural community, language building, online safety, and cultural exposure. I will use three of these (online connections, online safety, and cultural learning) for my design implications. 
 
-Priyana: I am interested in exploring the evolution of coffee culture of Los Angeles and how coffee is currently reflected in the social experience of local residents. Coffee shops represent social acitivities for connection as well as spaces to empower individuals. Los Angeles is comprised of residents of multiple races, nationalities, and backgrounds which is directly reflected in the abundance of coffee communities. How might we make coffee culture in Los Angeles more accessible to local residents while promoting social connectivity, productivity, and inclusivity in diverse coffee communities?
+[Priyana](https://priyanapatel57.github.io/DH199/): I am interested in exploring the evolution of coffee culture in Los Angeles and how coffee is currently reflected in the social experiences of local residents. Coffee shops represent social activities for connection as well as spaces to empower individuals. Los Angeles is comprised of residents of multiple races, nationalities, and backgrounds which is directly reflected in the abundance of coffee communities. How might we make coffee culture in Los Angeles more accessible to local residents while promoting social connectivity, productivity, and inclusivity in diverse coffee communities?
+
 
 ---
 
@@ -92,12 +94,12 @@ Priyana: I am interested in exploring the evolution of coffee culture of Los Ang
   </tr>
 </table>
 
-Jieun: I want to know how the user chooses their artworks. Does it depend on their preference or unconscious image they saw the first time they open the app? I found that the brightness of the example artwork on the first screen influenced on the perceived user-friendienss and usefulness and feeling more curious. Warm color scheme encourages people to percieve the app more friendly and more attractive and likely willing to download comparing cold color shceme. The most interesting part was the texture, when I applied the oil painting filter to increase the textual feeling, the app first page is perceived more positively in every aspect in measurement. 
+[Jieun](http://artmate.surge.sh/index.html): I want to know how the user chooses their artworks. Does it depend on their preference or unconscious image they saw the first time they open the app? I found that the brightness of the example artwork on the first screen influenced the perceived user-friendliness and usefulness and feeling more curious. Warm color scheme encourages people to perceive the app more friendly and more attractive and likely willing to download compared to cold color scheme. The most interesting part was the texture, when I applied the oil painting filter to increase the textual feeling, the app first page is perceived more positively in every aspect in measurement. 
 
-Diana: Cosmetics and skincare is an interesting topic -- cultural sense of beauty. But I want to design a personalized beauty consultant at the tip of their fingertips by focusing the right to know about ingredients. Through this project, I want them to be educated not only on their skin type, skin concerns, but also the ingredients and how to properly layer their skincare.
+[Diana](https://xdianasmiles.wixsite.com/pibu): Cosmetics is an industry that binds cultures together and influences consumer behavior. With the rise in skincare, I wanted to design a personal beauty consultant that focuses on educating users on not only their skin type or skin concern but information about ingredients and ingredients that work specifically for their skin type. Throughout this project, I want the users to have a welcoming experience despite their skincare knowledge and encourage them to actually understand the products they’re putting on their skin. 
 
 ---
 
 ### Concluding remarks 
 
-In this course, students conducted an user experience design research project by utilizing the concepts, theories, and skills of digital humanities. During 10 weeks, we virtually met to share, discuss, and learn from each other how to independently and collaboratively design in order to answer how human experience can be valued and celebrated by storytelling with digital technology for the future. 
+In this course, the students conducted an user experience design research project by utilizing the concepts, theories, and skills of digital humanities. During 10 weeks, we virtually met to share, discuss, and learn from each other how to independently and collaboratively design in order to answer how human experience can be valued and celebrated by storytelling with digital technology for the future. 
