@@ -77,7 +77,7 @@ By exploring the ux design of the local history, it is revealed that the augment
   <tr>
     <td width="25%"> <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/Jieun-artmate.gif" target="_blank" > <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/jieun-artmate.png" ></a>
     </td>
-    <td width="25%"> <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/Diana-pibu.mp4" target="_blank" > <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/diana-pibu.png" >
+    <td width="25%"> <a href="https://ux-ui-design-lab.github.io/DH199/2020Spring/Diana-pibu.mp4" target="_blank" > <img src="https://ux-ui-design-lab.github.io/DH199/2020Spring/diana-pibu.png" ></a>
     </td>
     <td width="25%">  
     </td>
