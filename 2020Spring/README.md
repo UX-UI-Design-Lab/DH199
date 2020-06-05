@@ -5,7 +5,17 @@
 
 Aesthetic experience of everyday life involves the feeling of active interaction with the surroundings. The surroundings entails the geographical, cultural, and/or motivational context. The contexts are interweaven with our sensorymotor intelligence and eventually sediment into the meaningful aestehtic experience. Nine students explored various research questions to unveil a hidden and missing layer of information when users explore local history, social connecteness, and object to choose. We use user experience design research methods to answer for those questions.
 
-### Invidiual students work (questions, outcome, and findings)
+### Invidiual students works
+
+<table>
+  <tr>
+    <td> <iframe src="https://xd.adobe.com/view/f0212682-474c-4e5e-722e-835875836916-8610/screen/06e718a3-9f88-4494-97da-984ab1637221/Homepage" width="300px"></iframe>
+    </td>
+    <td>
+      Andrea Mejia-Madriz: I want to create an application that delivers historical information about the LA film and telivision scene, using user’s location services and giving them alerts about films that have been shot in their location throughout history. The research questioin was how location-based services, augmented reality, and user-centered design techniques can be utilized in order to efficiently and captivatingly deliver Los Angeles film history in real time for tourist consumption. 
+    </td>
+  </tr>
+</table>
 
 Andrea: I want to create an application that delivers historical information about the LA film and telivision scene, using user’s location services and giving them alerts about films that have been shot in their location throughout history. The research questioin was how location-based services, augmented reality, and user-centered design techniques can be utilized in order to efficiently and captivatingly deliver Los Angeles film history in real time for tourist consumption. 
 
