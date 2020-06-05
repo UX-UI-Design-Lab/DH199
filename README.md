@@ -1,3 +1,5 @@
+
+
 # Directed Research In Digital Humanities
 
 ## Learning Objectives/ Outcome
@@ -25,7 +27,8 @@ Wed. 6-8pm online communication unless a different communication time is individ
 
 ## Collaborators (2020S)
 
-[2020Spring Studentwork showcases](https://ux-ui-design-lab.github.io/DH199/2020Spring/)
+<a class="github-button" href="https://ux-ui-design-lab.github.io/DH199/2020Spring/" data-icon="octicon-star" aria-label="Star ntkme/github-buttons on GitHub"> 2020 Spring Studentwork Showcases </a>
+
 
 - [Samantha Chandra](https://samanthachandra1.wixsite.com/dh199)
 - [Andrea Mejia-Madriz](https://andreamaria1116.github.io/DH199/)
@@ -46,3 +49,5 @@ Wed. 6-8pm online communication unless a different communication time is individ
 - Qirui Wu
 - Liwen Zhang
 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
