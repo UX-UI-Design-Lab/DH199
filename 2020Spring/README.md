@@ -1,5 +1,5 @@
-# UX capstone projects for DH199 directed research in Digital Humanities 
-## Studentwork showcases, 2020 Spring
+# DH199 directed research in Digital Humanities 
+## UX research Studentwork showcases, 2020 Spring
 
 ### Research statement
 
