@@ -50,7 +50,7 @@ For those exploration of ux design of the local history, it is revealed that the
     </td>
     <td width="25%"> 
       <figure>
-        <video src="https://ux-ui-design-lab.github.io/DH199/2020Spring/Priyana-shell.mp4"> 
+        <video src="https://ux-ui-design-lab.github.io/DH199/2020Spring/Priyana-shell.mp4" width="300"> 
       </figure>
     </td>
     <td width="25%">  
