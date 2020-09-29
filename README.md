@@ -12,7 +12,7 @@ In this course, students will conduct an user experience design research project
 * visual perception, psychology of design
 * spatial x temporal exploration of the local history (ex. Los Angeles)
 
-[Syllabus](https://docs.google.com/document/d/1wHNS6xnSplCvuPxFe-k2mK_oqbX3doNi6lBzsTba7SA/edit?usp=sharing)
+[Syllabus](https://docs.google.com/document/d/1IEQGyl7SRVjKEtLOkDJilb4k4WZ16ExGAGDaMC6Ox9U/edit?usp=sharing)
 
 ## Meetings + Weekly Schedule
 Wed. 6-8pm online communication unless a different communication time is individually scheduled in the beginning of the quarter. We will use Zoom or Discord. 
@@ -24,6 +24,12 @@ Wed. 6-8pm online communication unless a different communication time is individ
 3. Weekly meeting with a collaborators, what you planned to do, what you did, and the issue you need a help
 4. Final report (in APA style) ready to be published, which contains the project motivation + literature review + user research + design/prototyping + evaluation (evidence of the iterative user-centered process) + discussion + references.
 
+
+## Collaborators (2020F)
+
+- [Brandon Ngp]
+- [Emaily Chee]
+- [Lillian Nguyen]
 
 ## Collaborators (2020S)
 
@@ -41,10 +47,10 @@ Wed. 6-8pm online communication unless a different communication time is individ
 
 ## Collaborators (2020W)
 - Priscilla To (Honor's)
-- Ziyue Qi
+- Ziyue Qi (SIGDOC 20 Poster Presentation)
 - Grace Zhu
-- Haley Liang
-- Shan Zhong
+- Haley Liang (SIGDOC 20 paper, proposal accepted but withdrawn by Haley)
+- Shan Zhong (NordChi 20 submitted)
 - Qirui Wu
 - Liwen Zhang
 
