@@ -15,7 +15,7 @@ In this course, students will conduct an user experience design research project
 [Syllabus](https://docs.google.com/document/d/1IEQGyl7SRVjKEtLOkDJilb4k4WZ16ExGAGDaMC6Ox9U/edit?usp=sharing)
 
 ## Meetings + Weekly Schedule
-Wed. 6-8pm online communication unless a different communication time is individually scheduled in the beginning of the quarter. We will use Zoom or Discord. 
+Weekly 1-hour online meeting unless a different communication time is individually scheduled in the beginning of the quarter. We will use Zoom or Discord. 
 
 
 ## Requirements
