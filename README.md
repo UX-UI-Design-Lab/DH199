@@ -8,9 +8,9 @@ In this course, students will conduct an user experience design research project
 
 
 ## UX Design Research Interest
-* embodied cognition, learning by doing
+* embodied cognition, learning by doing (2020F)
 * visual perception, psychology of design
-* spatial x temporal exploration of the local history (ex. Los Angeles)
+* spatial x temporal exploration of the local history in Los Angeles (2020S) 
 
 [Syllabus](https://docs.google.com/document/d/1IEQGyl7SRVjKEtLOkDJilb4k4WZ16ExGAGDaMC6Ox9U/edit?usp=sharing)
 
