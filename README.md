@@ -27,9 +27,10 @@ Weekly 1-hour online meeting unless a different communication time is individual
 
 ## Collaborators (2020F)
 
-- [Brandon Ngp]
-- [Emaily Chee]
+- [Brandon Ngo]
+- [Emily Chee]
 - [Lillian Nguyen]
+- [Emily Dipressi]
 
 ## Collaborators (2020S)
 
