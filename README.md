@@ -35,7 +35,7 @@ Weekly 1-hour online meeting unless a different communication time is individual
 
 - [Brandon Ngo]
 - [Emily Chee]
-- [Lillian Nguyen](NordChi 21 submitted)
+- [Lillian Nguyen](Sigchi 21 submitted)
 - [Emily Dipressi]
 
 ## Collaborators (2020S)
