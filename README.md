@@ -28,15 +28,15 @@ Weekly 1-hour online meeting unless a different communication time is individual
 - [Rachel Liu]
 
 ## Collaborators (2022F)
-- [Alexandra Lansing]
-- [Chantal Tan, DH195]
+- [Alexandra Lansing](https://drive.google.com/file/d/1OeSiseRgDqsCsVFrawOTMmsvwuciYR73/view?usp=sharing)
+- [Chantal Tan, DH195](https://drive.google.com/file/d/1OeSiseRgDqsCsVFrawOTMmsvwuciYR73/view?usp=sharing)
 
 ## Collaborators (2020F)
 
-- [Brandon Ngo]
-- [Emily Chee]
-- [Lillian Nguyen](Sigchi 21 submitted)
-- [Emily Dipressi]
+- [Brandon Ngo](https://docs.google.com/document/d/1ZzeeUY54JknAJmZ0zreBRmKgG7idq3Llg1RZXvg1bMM/edit?usp=share_link)
+- [Emily Chee](https://docs.google.com/document/d/1FpBdok7iy66zhNdqxekqqbWcKiRIj3d2BgSzxQkx9zY/edit?usp=sharing)
+- [Lillian Nguyen](https://docs.google.com/document/d/1whetc4Zc6VJ76x9a4tjo3_y9BoIDA7PoMN72j2Ili70/edit?usp=sharing)(SIGCHI 21 submitted)
+- [Emily Dipressi](https://docs.google.com/document/d/1Ia2SLElhobJaVq-FWOFPx000hJ-kzIBNQoxEUqkgCCk/edit?usp=sharing)
 
 ## Collaborators (2020S)
 
