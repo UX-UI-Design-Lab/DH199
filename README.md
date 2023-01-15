@@ -24,6 +24,12 @@ Weekly 1-hour online meeting unless a different communication time is individual
 3. Weekly meeting with a collaborators, what you planned to do, what you did, and the issue you need a help
 4. Final report (in APA style) ready to be published, which contains the project motivation + literature review + user research + design/prototyping + evaluation (evidence of the iterative user-centered process) + discussion + references.
 
+## Collaborators (2022W)
+- [Rachel Liu]
+
+## Collaborators (2022F)
+- [Alexandra Lansing]
+- [Chantal Tan, DH195]
 
 ## Collaborators (2020F)
 
@@ -54,4 +60,5 @@ Weekly 1-hour online meeting unless a different communication time is individual
 - Shan Zhong (NordChi 20 submitted)
 - Qirui Wu
 - Liwen Zhang
+
 
